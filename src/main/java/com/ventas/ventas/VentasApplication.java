@@ -8,7 +8,7 @@ public class VentasApplication {
 
 	
 	public static void main(String[] args) {
-		System.out.println("Iniciando APP");
+		System.out.println("Iniciando APP 2.0");
 		SpringApplication.run(VentasApplication.class, args);
 	}
 

@@ -10,12 +10,12 @@
 	</parent>
 	<groupId>com.ventas</groupId>
 	<artifactId>ventas</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>ventas</name>
 	<description>App de ventas</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
